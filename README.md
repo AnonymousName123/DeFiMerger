@@ -220,7 +220,7 @@ Input: [Event Features (256D)] + [Contract Embeddings (768D)]
          ↓
    Transformer Encoder (2 layers, 8 heads)
          ↓
-   Transformer Dncoder
+   Transformer Decoder
          ↓
    Sigmoid → Binary Prediction
 ```
