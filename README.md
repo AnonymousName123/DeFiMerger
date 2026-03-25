@@ -249,7 +249,6 @@ their standard deviations to account for potential variance. *
 - **Etherscan API** for blockchain data access
 - **HuggingFace** for pre-trained code models
 - **PyTorch Team** for deep learning framework
-- Research inspired by recent works on DeFi security and anomaly detection
 
 ---
 
