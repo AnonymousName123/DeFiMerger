@@ -1,0 +1,17 @@
+transformers==4.38.0
+accelerate==0.21.0
+safetensors==0.6.2
+bitsandbytes==0.41.1
+auto_gptq==0.7.1
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
+torchaudio==2.1.0+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
+pandas==2.1.4
+numpy==1.24.3
+datasets==3.3.2
+openai==1.109.1
+pydantic==2.12.4
+tqdm==4.67.1
+pypdf==4.3.1
+beautifulsoup4==4.14.2
+openpyxl==3.1.5
