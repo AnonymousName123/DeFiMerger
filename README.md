@@ -244,6 +244,15 @@ their standard deviations to account for potential variance. *
 
 ---
 
+## Additional Experiments
+- **Weighted Concat** is the ratio between the event features and the contract features.
+- **Threshold** is the final classification threshold.
+- **Dropout** is the specified dropout value.
+- **Hidden Dim** denotes the size of the hidden layer.
+- **Max Relative Pos** denotes the maximum window size for relative position encoding.
+  
+---
+
 ## 🙏 Acknowledgments
 
 - **Etherscan API** for blockchain data access
